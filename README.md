@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-### I am Krishna Chaitanya (Krsna)
-
-#### Anything interesting I'm in.
+### I am Krishna Chaitanya 
 
 <img src="https://raw.githubusercontent.com/krsna540/krsna540/master/tumblr_inline_pj8gz5hoXz1ro5idi_500.webp">
 
