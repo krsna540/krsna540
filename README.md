@@ -2,7 +2,7 @@
 
 ### I am Krishna Chaitanya (Krsna)
 
-#### Anything intresting I'm in.
+#### Anything interesting I'm in.
 
 <img src="https://raw.githubusercontent.com/krsna540/krsna540/master/tumblr_inline_pj8gz5hoXz1ro5idi_500.webp">
 
@@ -13,7 +13,7 @@
 
 - 🚴‍♂️ I love reading and binge watching
 
-- 👯 I’m looking forward to collaborate on any intresting Open Source project
+- 👯 I’m looking forward to collaborate on any interesting Open Source project
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krsna540/)](https://www.linkedin.com/in/krsna540/) 
  😃
