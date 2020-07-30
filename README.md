@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/krsna540/krsna540/master/tumblr_inline_pj8gz5hoXz1ro5idi_500.webp">
 
 
-- 🔭 I'm a Data Scientist 👨‍💻🎧 & Full Stack developer 
+- 🔭 I'm a Machine Learning Engineer 👨‍💻🎧 & Full Stack developer 
 
 - 🌱 I constantly learn new languages and create personal projects.
 
