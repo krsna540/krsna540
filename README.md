@@ -2,7 +2,7 @@
 
 ### I am Krishna Chaitanya 
 
-<img src="https://raw.githubusercontent.com/krsna540/krsna540/master/tumblr_inline_pj8gz5hoXz1ro5idi_500.webp">
+<img src="https://s3.amazonaws.com/tinycards/image/ebdb3f3270ba92c6f6295442f547916f">
 
 
 - 🔭 I'm a Machine Learning Engineer 👨‍💻🎧 & Full Stack developer 
